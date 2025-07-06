@@ -1,0 +1,9 @@
+torch
+fastapi
+uvicorn
+numpy
+Pillow
+torchvision
+jinja2
+python-multipart
+google-generativeai
